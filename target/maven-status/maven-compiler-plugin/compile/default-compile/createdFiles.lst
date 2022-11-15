@@ -1,0 +1,6 @@
+com/waracle/repository/CakeRepository.class
+com/waracle/rest/controller/CakeController.class
+com/waracle/model/Cake.class
+com/waracle/service/CakeManager.class
+com/waracle/utils/InitialDataLoader.class
+com/waracle/service/CakeManagerImpl.class
